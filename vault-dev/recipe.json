@@ -1,0 +1,9 @@
+{
+	"filesToCreate": [
+		"scratch.sh",
+		"notes.md"
+	],
+	"filesToCopy": [
+        "vault-dev-start.sh"
+    ]
+}
