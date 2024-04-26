@@ -1,6 +1,0 @@
-{
-	"filesToCreate": [
-		"notes.txt"
-	],
-	"filesToCopy": ["*"]
-}
